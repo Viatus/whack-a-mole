@@ -4,5 +4,5 @@
     <string name="menu_button_text">Menu</string>
     <string name="start_game_button_text">Start game</string>
     <string name="mole_picture_text">Mole picture</string>
-    <string name="game_rules_text">Rules: Moles appear one at a time, to gain a score you need to tap a mole, once you see him.\n Time limit is 30 seconds.</string>
+    <string name="game_rules_text">Rules: Moles appear one at a time, to gain a score you need to tap a mole, once you see him.\nTime limit is 30 seconds.</string>
 </resources>
